@@ -14,19 +14,19 @@ def default(request, responder):
 
 @app.handle(intent="destination_information")
 def information(request, responder):
-    responder.reply("It's currently raining at your location")
+    responder.reply("Look up info")
 
 @app.handle(intent="directions")
 def directions(request, responder):
-    responder.reply("There are 3 minutes left until then")
+    responder.reply("Use google maps for directions")
 
 @app.handle(intent="obstacles")
 def obstacles(request, responder):
-    responder.reply("There are no trees in front of you")
+    responder.reply("Don't worry about it. There are no obstacles near you")
 
 @app.handle(intent="pathfinding")
 def pathfinding(request, responder):
-    responder.reply("There is a sidewalk 3 feet to your right")
+    responder.reply("You are on the right path")
 
 @app.handle(intent="surroundings")
 def surroundings(request, responder):

@@ -1,0 +1,2 @@
+How far am I from my destination?
+How far am I from the next turn?

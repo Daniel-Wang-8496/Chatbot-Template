@@ -1,0 +1,20 @@
+Are there any obstacles nearby?
+Is there anything on this path?
+Are there any people in front of me?
+How many people are in front of me?
+Is there anyone on the path in front of me?
+Are there any cars approaching me?
+Are there any trees in my path?
+Are there any obstacles in front of me?
+How should I avoid this obstacle?
+Where in front of me are the obstacles?
+Should I go left or right to avoid this obstacle?
+Are there any road bumps nearby?
+Is there anything I can bump into ahead?
+Please notify me of any obstacles ahead.
+Are there any bikers in front of me?
+Are there any hills in my path?
+Is it downhill here?
+Is it uphill here?
+Are there any sharp inclines in my path?
+Should I watch my step?

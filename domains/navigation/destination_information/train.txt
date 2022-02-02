@@ -1,0 +1,21 @@
+What do they sell at this store?
+What is this place’s hours?
+Is this place by the beach?
+Is this place downtown?
+Is this location by the coast?
+Is this location by the ocean?
+Is this place by the sea?
+What’s the weather like at this location?
+How hot is it at this location?
+How cold is it at this place?
+Does this place allow pets inside?
+Is there a mask or vaccine requirement to enter this location?
+Is this place busy right now?
+When is this place usually busy?
+How’s traffic like near this location?
+Is there a lot of traffic near this place?
+Is it raining at this location right now?
+Is it snowing at this place right now?
+How much windchill is at this place right now?
+What’s the humidity at this place right now?
+Are there a lot of people there at this time?

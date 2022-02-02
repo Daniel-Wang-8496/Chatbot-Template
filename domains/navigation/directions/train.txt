@@ -1,0 +1,21 @@
+When is the next turn?
+Is the next turn a left or a right?
+How many more miles are there until I get there?
+How many more steps until I have to make a turn?
+Will traffic affect my time until my destination?
+How much more time until I reach my destination?
+How many more minutes until I reach my destination?
+Where is the next turn?
+Which crosswalk am I supposed to go to?
+Which street do I turn next at?
+Which street is the last turn at?
+When approximately is the next turn?
+How many traffic intersections are there until my destination?
+What are possible routes to my location?
+Am I traveling in the right direction?
+How can I fix my direction?
+What is the shortest possible route to my location?
+How many more kilometers until my destination?
+How many more meters until the next turn?
+What is the fastest route to my destination?
+Am I almost there yet?

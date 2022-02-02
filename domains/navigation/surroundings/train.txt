@@ -1,0 +1,21 @@
+Is there a hospital nearby?
+Is there a gym nearby?
+Is there a lamppost or a street sign here?
+Is there a bench nearby?
+Are there any stores in view?
+Are there any people around here?
+How many people are there?
+Is the pavilion nearby?
+Is the bus station in view?
+Is anyone biking around here?
+What color is the traffic light?
+Is there a fire hydrant nearby?
+Is there anywhere I can sit?
+How many dogs are at this park?
+Are there picnic tables nearby?
+Is there a playground nearby?
+Is there a trail nearby?
+Is the subway station nearby?
+Is there a restaurant nearby?
+Is there a library nearby?
+What color is the bench?

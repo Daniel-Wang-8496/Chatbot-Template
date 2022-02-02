@@ -15,7 +15,7 @@ INTENT_CLASSIFIER_CONFIG = {
     },
     'param_selection': {
         'type': 'k-fold',
-        'k': 10,
+        'k': 5,
         'grid': {
             'max_features': ['log2', 'sqrt', 0.01, 0.1]
         },

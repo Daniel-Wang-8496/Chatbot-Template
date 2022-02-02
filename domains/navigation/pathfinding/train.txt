@@ -1,0 +1,20 @@
+Where is the sidewalk?
+Where is the bridge?
+Is there a sidewalk nearby?
+Is there a bridge nearby?
+Is there a trail nearby?
+Where is the crosswalk?
+Which side of the sidewalk am I on?
+Where is the sidewalk?
+Please direct me to the closest sidewalk.
+Please tell me where the nearest crosswalk is. 
+Which side of the road am I on?
+Am I on the right side of the road?
+Am I on the walking path?
+Am I on the right trail?
+Where should I go to get back on the sidewalk?
+Can you direct me to the nearest sidewalk?
+Where is the curb?
+Is there a curb here?
+What trail am I walking toward?
+Which side of the bridge am I on?
