@@ -17,11 +17,14 @@ INTENT_CLASSIFIER_CONFIG = {
         'type': 'k-fold',
         'k': 5,
         'grid': {
-            'max_features': ['log2', 'sqrt', 0.01, 0.1]
+            #'max_features': ['log2', 'sqrt', 0.01, 1]
+            'max_features': [1.0]
         },
     },
     "features": {
         "exact": {},
+        'bag-of-words': {'lengths': [1]},
+        'enable-stemming': True
     }
 }
 
