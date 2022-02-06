@@ -28,13 +28,36 @@ INTENT_CLASSIFIER_CONFIG = {
     }
 }
 
-"""
+
 # Fill in the other model configurations if necessary
 # DOMAIN_CLASSIFIER_CONFIG = {}
-# ENTITY_RECOGNIZER_CONFIG = {}
+#ENTITY_RECOGNIZER_CONFIG = {}
 # ROLE_CLASSIFIER_CONFIG = {}
 """
-
+TEXT_PREPARATION_CONFIG = {
+    "preprocessors": [],
+    "tokenizer": "SpacyTokenizer",
+    "normalizers": [
+        'RemoveAposAtEndOfPossesiveForm',
+        'RemoveAdjacentAposAndSpace',
+        'RemoveBeginningSpace',
+        'RemoveTrailingSpace',
+        'ReplaceSpacesWithSpace',
+        'ReplaceUnderscoreWithSpace',
+        'SeparateAposS',
+        'ReplacePunctuationAtWordStartWithSpace',
+        'ReplacePunctuationAtWordEndWithSpace',
+        'ReplaceSpecialCharsBetweenLettersAndDigitsWithSpace',
+        'ReplaceSpecialCharsBetweenDigitsAndLettersWithSpace',
+        'ReplaceSpecialCharsBetweenLettersWithSpace',
+        'Lowercase',
+        'ASCIIFold'
+    ],
+    "regex_norm_rules": [],
+    "stemmer": "SpacyLemmatizer",
+    "keep_special_chars": r"\@\[\]'"
+}
+"""
 # A example configuration for the parser
 """
 # *** Note: these are place holder entity types ***

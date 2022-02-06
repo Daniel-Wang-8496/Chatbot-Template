@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
-"""This module contains a template MindMeld application"""
+
 from mindmeld import Application
-
-app = Application(__name__)
-
-__all__ = ['app']
+from .text_preparation_pipeline import get_text_preparation_pipeline
+app = Application(__name__, text_preparation_pipeline=get_text_preparation_pipeline())
 
 
 @app.handle(default=True)
