@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 
 from mindmeld import Application
-from .text_preparation_pipeline import get_text_preparation_pipeline
-app = Application(__name__, text_preparation_pipeline=get_text_preparation_pipeline())
+#from .text_preparation_pipeline import get_text_preparation_pipeline
+app = Application(__name__)
+
+#text_preparation_pipeline=get_text_preparation_pipeline()
 
 
 @app.handle(default=True)

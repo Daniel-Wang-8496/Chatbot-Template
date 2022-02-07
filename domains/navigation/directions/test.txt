@@ -1,2 +1,7 @@
-How far am I from my destination?
-How far am I from the next turn?
+How far am I from {Plymouth|location}?
+How far am I from {McDonald's|location}?
+How much longer until {Black Oaks|location}?
+How much longer do I have to walk until {Illinois|location}?
+How much longer do I have until I reach {Chicago|location}?
+When am I going to get to {620 Circle Ln N|location}?
+How much more distance until I get to {Sydney Opera House|location}?

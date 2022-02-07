@@ -1,0 +1,2020 @@
+85C Bakery Cafe
+A&W Restaurants
+Arby's
+Auntie Anne's
+Big Boy Restaurants
+Blaze Pizza
+Boston Market
+Buffalo Wild Wings
+Burger King
+Carl's Jr.
+Chipotle Mexican Grill
+Church's Chicken
+Cicis
+Cinnabon
+Culver's
+Dairy Queen
+Domino's Pizza
+Dunkin' Donuts
+Five Guys
+Gatti's Pizza
+Godfather's Pizza
+Golden Chick
+Hardee's
+In-N-Out Burger
+Jack in the Box
+Jersey Mike's Subs
+Jet's Pizza
+Jollibee
+KFC
+Little Caesars
+Long John Silver's
+Louisiana Famous Fried Chicken
+Marco's Pizza
+McDonald's
+Miami Subs Grill
+MOD Pizza
+Orange Julius
+Panda Express
+Papa Gino's
+Papa John's Pizza
+Peter Piper Pizza
+The Pizza Company
+Pizza Hut
+Pizza Inn
+Pollo Campero
+Pollo Tropical
+Popeyes
+Quiznos
+Sonic Drive-In
+Starbucks
+Subway
+Sweet Frog
+Taco Bell
+TCBY
+Tim Hortons
+TKK Fried Chicken
+Wendy's
+Whataburger
+White Castle
+Wingstop
+WingStreet
+Ada
+Adams
+Adrian
+Afton
+Aitkin
+Akeley
+Albany
+Alberta
+Albert Lea
+Albertville
+Alden
+Aldrich
+Alexandria
+Alpha
+Altura
+Alvarado
+Amboy
+Andover
+Annandale
+Anoka
+Appleton
+Apple Valley
+Arco
+Arden Hills
+Argyle
+Arlington
+Arnold
+Ashby
+Askov
+Atwater
+Audubon
+Aurora
+Austin
+Avoca
+Avon
+Babbitt
+Backus
+Badger
+Bagley
+Balaton
+Barnesville
+Barnum
+Barrett
+Barry
+Battle Lake
+Baudette
+Baxter
+Bayport
+Beardsley
+Beaver Bay
+Beaver Creek
+Becker
+Bejou
+Belgrade
+Bellechester
+Belle Plaine
+Bellingham
+Beltrami
+Belview
+Bemidji
+Bena
+Benson
+Bertha
+Bethel
+Bigelow
+Big Falls
+Bigfork
+Big Lake
+Bingham Lake
+Birchwood Village
+Bird Island
+Biscay
+Biwabik
+Blackduck
+Blaine
+Blomkest
+Blooming Prairie
+Bloomington
+Blue Earth
+Bluffton
+Bock
+Borup
+Bovey
+Bowlus
+Boyd
+Boy River
+Braham
+Brainerd
+Brandon
+Breckenridge
+Breezy Point
+Brewster
+Bricelyn
+Brooklyn Center
+Brooklyn Park
+Brook Park
+Brooks
+Brookston
+Brooten
+Browerville
+Brownsdale
+Browns Valley
+Brownsville
+Brownton
+Bruno
+Buckman
+Buffalo
+Buffalo Lake
+Buhl
+Burnsville
+Burtrum
+Butterfield
+Byron
+Caledonia
+Callaway
+Calumet
+Cambridge
+Campbell
+Canby
+Cannon Falls
+Canton
+Carlos
+Carlton
+Carver
+Cass Lake
+Cedar Mills
+Center City
+Centerville
+Ceylon
+Champlin
+Chandler
+Chanhassen
+Chaska
+Chatfield
+Chickamaw Beach
+Chisago City
+Chisholm
+Chokio
+Circle Pines
+Clara City
+Claremont
+Clarissa
+Clarkfield
+Clarks Grove
+Clearbrook
+Clear Lake
+Clearwater
+Clements
+Cleveland
+Climax
+Clinton
+Clitherall
+Clontarf
+Cloquet
+Coates
+Cobden
+Cohasset
+Cokato
+Cold Spring
+Coleraine
+Cologne
+Columbia Heights
+Comfrey
+Comstock
+Conger
+Cook
+Coon Rapids
+Corcoran
+Correll
+Cosmos
+Cottage Grove
+Cottonwood
+Courtland
+Cromwell
+Crookston
+Crosby
+Crosslake
+Crystal
+Currie
+Cuyuna
+Cyrus
+Dakota
+Dalton
+Danube
+Danvers
+Darfur
+Darwin
+Dassel
+Dawson
+Dayton
+Deephaven
+Deer Creek
+Deer River
+Deerwood
+De Graff
+Delano
+Delavan
+Delhi
+Dellwood
+Denham
+Dennison
+Dent
+Detroit Lakes
+Dexter
+Dilworth
+Dodge Center
+Donaldson
+Donnelly
+Doran
+Dover
+Dovray
+Duluth
+Dumont
+Dundas
+Dundee
+Dunnell
+Eagan
+Eagle Bend
+Eagle Lake
+East Bethel
+East Grand Forks
+East Gull Lake
+Easton
+Echo
+Eden Prairie
+Eden Valley
+Edgerton
+Edina
+Effie
+Eitzen
+Elba
+Elbow Lake
+Elbow Lake
+Elgin
+Elizabeth
+Elko
+Elk River
+Elkton
+Ellendale
+Ellsworth
+Elmdale
+Elmore
+Elrosa
+Ely
+Elysian
+Emily
+Emmons
+Erhard
+Erskine
+Evan
+Evansville
+Eveleth
+Excelsior
+Eyota
+Fairfax
+Fairmont
+Falcon Heights
+Faribault
+Farmington
+Farwell
+Federal Dam
+Felton
+Fergus Falls
+Fertile
+Fifty Lakes
+Finlayson
+Fisher
+Flensburg
+Floodwood
+Florence
+Foley
+Forada
+Forest Lake
+Foreston
+Fort Ripley
+Fosston
+Fountain
+Foxhome
+Franklin
+Frazee
+Freeborn
+Freeport
+Fridley
+Frost
+Fulda
+Funkley
+Garfield
+Garrison
+Garvin
+Gary
+Gaylord
+Gem Lake
+Geneva
+Genola
+Georgetown
+Ghent
+Gibbon
+Gilbert
+Gilman
+Glencoe
+Glenville
+Glenwood
+Glyndon
+Golden Valley
+Gonvick
+Goodhue
+Goodridge
+Good Thunder
+Goodview
+Graceville
+Granada
+Grand Marais
+Grand Meadow
+Grand Rapids
+Granite Falls
+Grant
+Grasston
+Greenbush
+Greenfield
+Green Isle
+Greenwald
+Greenwood
+Grey Eagle
+Grove City
+Grygla
+Gully
+Hackensack
+Hadley
+Hallock
+Halma
+Halstad
+Hamburg
+Ham Lake
+Hammond
+Hampton
+Hancock
+Hanley Falls
+Hanover
+Hanska
+Harding
+Hardwick
+Harmony
+Harris
+Hartland
+Hastings
+Hatfield
+Hawley
+Hayfield
+Hayward
+Hazel Run
+Hector
+Heidelberg
+Henderson
+Hendricks
+Hendrum
+Henning
+Henriette
+Herman
+Hermantown
+Heron Lake
+Hewitt
+Hibbing
+Hill City
+Hillman
+Hills
+Hilltop
+Hinckley
+Hitterdal
+Hoffman
+Hokah
+Holdingford
+Holland
+Hollandale
+Holloway
+Holt
+Hopkins
+Houston
+Howard Lake
+Hoyt Lakes
+Hugo
+Humboldt
+Hutchinson
+Ihlen
+Independence
+International Falls
+Inver Grove Heights
+Iona
+Iron Junction
+Ironton
+Isanti
+Isle
+Ivanhoe
+Jackson
+Janesville
+Jasper
+Jeffers
+Jenkins
+Johnson
+Jordan
+Kandiyohi
+Karlstad
+Kasota
+Kasson
+Keewatin
+Kelliher
+Kellogg
+Kennedy
+Kenneth
+Kensington
+Kent
+Kenyon
+Kerkhoven
+Kerrick
+Kettle River
+Kiester
+Kilkenny
+Kimball
+Kinbrae
+Kingston
+Kinney
+La Crescent
+Lafayette
+Lake Benton
+Lake Bronson
+Lake City
+Lake Crystal
+Lake Elmo
+Lakefield
+Lake Henry
+Lakeland
+Lakeland Shores
+Lake Lillian
+Lake Park
+Lake St. Croix Beach
+Lake Shore
+Lakeville
+Lake Wilson
+Lamberton
+Lancaster
+Landfall
+Lanesboro
+Laporte
+La Prairie
+La Salle
+Lastrup
+Lauderdale
+Le Center
+Lengby
+Leonard
+Leonidas
+Leota
+Le Roy
+Lester Prairie
+Le Sueur
+Lewiston
+Lewisville
+Lexington
+Lilydale
+Lindstrom
+Lino Lakes
+Lismore
+Litchfield
+Little Canada
+Little Falls
+Littlefork
+Little Rock
+Long Beach
+Long Lake
+Long Prairie
+Longville
+Lonsdale
+Loretto
+Louisburg
+Lowry
+Lucan
+Luverne
+Lyle
+Lynd
+Mabel
+McGrath
+McGregor
+McIntosh
+McKinley
+Madelia
+Madison
+Madison Lake
+Magnolia
+Mahnomen
+Mahtomedi
+Manchester
+Manhattan Beach
+Mankato
+Mantorville
+Maple Grove
+Maple Lake
+Maple Plain
+Mapleton
+Mapleview
+Maplewood
+Marble
+Marietta
+Marine on St. Croix
+Marshall
+Mayer
+Maynard
+Mazeppa
+Meadowlands
+Medford
+Medicine Lake
+Medina
+Meire Grove
+Melrose
+Menahga
+Mendota
+Mendota Heights
+Mentor
+Middle River
+Miesville
+Milaca
+Milan
+Millerville
+Millville
+Milroy
+Miltona
+Minneapolis
+Minneiska
+Minneota
+Minnesota City
+Minnesota Lake
+Minnetonka
+Minnetonka Beach
+Minnetrista
+Mizpah
+Montevideo
+Montgomery
+Monticello
+Montrose
+Moorhead
+Moose Lake
+Mora
+Morgan
+Morris
+Morristown
+Morton
+Motley
+Mound
+Mounds View
+Mountain Iron
+Mountain Lake
+Murdock
+Myrtle
+Nashua
+Nashwauk
+Nassau
+Naytahwaush
+Nelson
+Nerstrand
+Nevis
+New Auburn
+New Brighton
+Newfolden
+New Germany
+New Hope
+New London
+New Market
+New Munich
+Newport
+New Prague
+New Richland
+New Trier
+New Ulm
+New York Mills
+Nicollet
+Nielsville
+Nimrod
+Nisswa
+Norcross
+North Branch
+Northfield
+North Mankato
+North Oaks
+Northome
+Northrop
+North St. Paul
+Norwood Young America
+Oakdale
+Oak Grove
+Oak Park Heights
+Oakport
+Odessa
+Odin
+Ogema
+Ogilvie
+Okabena
+Oklee
+Olivia
+Onamia
+Ormsby
+Orono
+Oronoco
+Orr
+Ortonville
+Osakis
+Oslo
+Osseo
+Ostrander
+Otsego
+Ottertail
+Owatonna
+Palisade
+Parkers Prairie
+Park Rapids
+Paynesville
+Pease
+Pelican Rapids
+Pemberton
+Pennock
+Pequot Lakes
+Perham
+Perley
+Peterson
+Pierz
+Pillager
+Pine City
+Pine Island
+Pine Point
+Pine River
+Pine Springs
+Pipestone
+Plainview
+Plato
+Pleasant Lake
+Plummer
+Plymouth
+Ponemah
+Porter
+Preston
+Princeton
+Prinsburg
+Prior Lake
+Proctor
+Quamba
+Racine
+Ramsey
+Randall
+Randolph
+Ranier
+Raymond
+Redby
+Red Lake
+Red Lake Falls
+Red Wing
+Redwood Falls
+Regal
+Remer
+Renville
+Revere
+Rice
+Rice Lake
+Richfield
+Richmond
+Richville
+Riverton
+Robbinsdale
+Rochester
+Rock Creek
+Rockford
+Rockville
+Rogers
+Rollingstone
+Ronneby
+Roosevelt
+Roscoe
+Roseau
+Rose Creek
+Rosemount
+Roseville
+Rothsay
+Round Lake
+Royalton
+Rush City
+Rushford
+Rushford Village
+Rushmore
+Russell
+Ruthton
+Rutledge
+Sabin
+Sacred Heart
+St. Anthony city (Hennepin County)
+St. Anthony city (Stearns County)
+St. Bonifacius
+St. Charles
+St. Clair
+St. Cloud
+St. Francis
+St. Hilaire
+St. James
+St. Joseph
+St. Leo
+St. Louis Park
+St. Martin
+St. Marys Point
+St. Michael
+St. Paul
+St. Paul Park
+St. Peter
+St. Rosa
+St. Stephen
+St. Vincent
+Sanborn
+Sandstone
+Sargeant
+Sartell
+Sauk Centre
+Sauk Rapids
+Savage
+Scanlon
+Seaforth
+Sebeka
+Sedan
+Shafer
+Shakopee
+Shelly
+Sherburn
+Shevlin
+Shoreview
+Shorewood
+Silver Bay
+Silver Lake
+Skyline
+Slayton
+Sleepy Eye
+Sobieski
+Solway
+South Haven
+South St. Paul
+Spicer
+Springfield
+Spring Grove
+Spring Hill
+Spring Lake Park
+Spring Park
+Spring Valley
+Squaw Lake
+Stacy
+Staples
+Starbuck
+Steen
+Stephen
+Stewart
+Stewartville
+Stillwater
+Stockton
+Storden
+Strandquist
+Strathcona
+Sturgeon Lake
+Sunburg
+Sunfish Lake
+Swanville
+Taconite
+Tamarack
+Taopi
+Taunton
+Taylors Falls
+Tenney
+Tenstrike
+The Lakes
+Thief River Falls
+Thomson
+Tintah
+Tonka Bay
+Tower
+Tracy
+Trail
+Trimont
+Trommald
+Trosky
+Truman
+Turtle River
+Twin Lakes
+Twin Valley
+Two Harbors
+Tyler
+Ulen
+Underwood
+Upsala
+Urbank
+Utica
+Vadnais Heights
+Vergas
+Vermillion
+Verndale
+Vernon Center
+Vesta
+Victoria
+Viking
+Villard
+Vineland
+Vining
+Virginia
+Wabasha
+Wabasso
+Waconia
+Wadena
+Wahkon
+Waite Park
+Waldorf
+Walker
+Walnut Grove
+Walters
+Waltham
+Wanamingo
+Wanda
+Warba
+Warren
+Warroad
+Waseca
+Watertown
+Waterville
+Watkins
+Watson
+Waubun
+Waverly
+Wayzata
+Welcome
+Wells
+Wendell
+Westbrook
+West Concord
+Westport
+West St. Paul
+West Union
+Whalan
+Wheaton
+White Bear Lake
+White Earth
+Wilder
+Willernie
+Williams
+Willmar
+Willow River
+Wilmont
+Wilton
+Windom
+Winger
+Winnebago
+Winona
+Winsted
+Winthrop
+Winton
+Wolf Lake
+Wolverton
+Woodbury
+Wood Lake
+Woodland
+Woodstock
+Worthington
+Wrenshall
+Wright
+Wykoff
+Wyoming
+Zemple
+Zimmerman
+Zumbro Falls
+Zumbrota
+Acton
+Adelanto
+Agoura Hills
+Alameda
+Alamo
+Albany
+Alhambra
+Aliso Viejo
+Almanor
+Alondra Park
+Alpaugh
+Alpine
+Alpine Village
+Altadena
+Alta Sierra
+Alturas
+Alum Rock
+Amador City
+American Canyon
+Amesti
+Anaheim
+Anderson
+Angels City
+Angwin
+Antioch
+Apple Valley
+Aptos
+Aptos Hills-Larkin Valley
+Arbuckle
+Arcadia
+Arcata
+Arden-Arcade
+Armona
+Arnold
+Aromas
+Arroyo Grande
+Artesia
+Arvin
+Ashland
+Atascadero
+Atherton
+Atwater
+Auberry
+Auburn
+August
+Avalon
+Avenal
+Avery
+Avocado Heights
+Azusa
+Bakersfield
+Baldwin Park
+Banning
+Barstow
+Bay Point
+Bayview
+Bayview-Montalvin
+Baywood-Los Osos
+Beale AFB
+Bear Valley
+Bear Valley Springs
+Beaumont
+Beckwourth
+Belden
+Bell
+Bellflower
+Bell Gardens
+Belmont
+Belvedere
+Benicia
+Ben Lomond
+Berkeley
+Bermuda Dunes
+Bertsch-Oceanview
+Bethel Island
+Beverly Hills
+Big Bear City
+Big Bear Lake
+Big Bend
+Biggs
+Big Pine
+Big River
+Biola
+Bishop
+Blackhawk-Camino Tassajara
+Black Point-Green Point
+Blairsden
+Bloomington
+Blue Lake
+Bluewater
+Blythe
+Bodega Bay
+Bodfish
+Bolinas
+Bombay Beach
+Bonadelle Ranchos-Madera Ranchos
+Bonita
+Bonsall
+Bootjack
+Boron
+Boronda
+Borrego Springs
+Bostonia
+Boulder Creek
+Bowles
+Boyes Hot Springs
+Bradbury
+Bradley
+Brawley
+Brea
+Brentwood
+Bret Harte
+Brisbane
+Broadmoor
+Bucks Lake
+Buellton
+Buena Park
+Buena Vista
+Burbank
+Burbank
+Burlingame
+Burney
+Buttonwillow
+Byron
+Bystrom
+Cabazon
+Calabasas
+Calexico
+California City
+Calimesa
+Calipatria
+Calistoga
+Calwa
+Camarillo
+Cambria
+Cambrian Park
+Cameron Park
+Campbell
+Camp Pendleton North
+Camp Pendleton South
+Cantua Creek
+Canyondam
+Canyon Lake
+Capitola
+Caribou
+Carlsbad
+Carmel-by-the-Sea
+Carmel Valley Village
+Carmichael
+Carpinteria
+Carrick
+Carson
+Cartago
+Caruthers
+Casa Conejo
+Casa de Oro-Mount Helix
+Castro Valley
+Castroville
+Cathedral City
+Cayucos
+Ceres
+Cerritos
+Challenge-Brownsville
+Channel Islands Beach
+Charter Oak
+Cherryland
+Cherry Valley
+Chester
+Chico
+Chilcoot-Vinton
+China Lake Acres
+Chinese Camp
+Chino
+Chino Hills
+Chowchilla
+Chualar
+Chula Vista
+Citrus
+Citrus Heights
+Claremont
+Clayton
+Clearlake
+Clearlake Oaks
+Clio
+Cloverdale
+Clovis
+Clyde
+Coachella
+Coalinga
+Cobb
+Colfax
+Colma
+Colton
+Columbia
+Colusa
+Commerce
+Compton
+Concord
+Concow
+Copperopolis
+Corcoran
+Corning
+Corona
+Coronado
+Corralitos
+Corte Madera
+Costa Mesa
+Cotati
+Coto de Caza
+Cottonwood
+Country Club
+Covelo
+Covina
+Crescent City
+Crescent City North
+Crescent Mills
+Crest
+Crestline
+C-Road
+Crockett
+Cromberg
+Cudahy
+Culver City
+Cupertino
+Cutler
+Cutten
+Cypress
+Daly City
+Dana Point
+Danville
+Darwin
+Davis
+Day Valley
+Deer Park
+Del Aire
+Delano
+Delhi
+Delleker
+Del Mar
+Del Monte Forest
+Del Rey
+Del Rey Oaks
+Del Rio
+Denair
+Derby Acres
+Desert Hot Springs
+Desert Shores
+Desert View Highlands
+Diablo
+Diamond Bar
+Diamond Springs
+Dillon Beach
+Dinuba
+Discovery Bay
+Dixon
+Dixon Lane-Meadow Creek
+Dollar Point
+Dorrington
+Dorris
+Dos Palos
+Downey
+Duarte
+Dublin
+Ducor
+Dunsmuir
+Durham
+Dustin Acres
+Earlimart
+East Blythe
+East Compton
+East Foothills
+East Hemet
+East La Mirada
+East Los Angeles
+East Oakdale
+Easton
+East Orosi
+East Palo Alto
+East Pasadena
+East Porterville
+East Quincy
+East Richmond Heights
+East San Gabriel
+East Shore
+East Sonora
+Edgewood
+Edwards AFB
+El Cajon
+El Centro
+El Cerrito
+El Cerrito
+El Dorado Hills
+Eldridge
+El Granada
+Elk Grove
+Elkhorn
+Elmira
+El Monte
+El Paso de Robles (Paso Robles)
+El Rio
+El Segundo
+El Sobrante
+El Verano
+Emerald Lake Hills
+Emeryville
+Empire
+Encinitas
+Escalon
+Escondido
+Esparto
+Etna
+Eureka
+Exeter
+Fairbanks Ranch
+Fairfax
+Fairfield
+Fair Oaks
+Fairview
+Fallbrook
+Fall River Mills
+Farmersville
+Farmington
+Fellows
+Felton
+Ferndale
+Fetters Hot Springs-Agua Caliente
+Fillmore
+Firebaugh
+Florence-Graham
+Florin
+Folsom
+Fontana
+Foothill Farms
+Foothill Ranch
+Ford City
+Foresthill
+Forest Meadows
+Forestville
+Fort Bragg
+Fort Jones
+Fortuna
+Foster City
+Fountain Valley
+Fowler
+Frazier Park
+Freedom
+Fremont
+French Camp
+French Gulch
+Fresno
+Friant
+Fruitdale
+Fullerton
+Furnace Creek
+Galt
+Gardena
+Garden Acres
+Garden Grove
+Gazelle
+Georgetown
+Gerber-Las Flores
+Gilroy
+Glen Avon
+Glendale
+Glendora
+Glen Ellen
+Golden Hills
+Gold River
+Goleta
+Gonzales
+Goshen
+Graeagle
+Grand Terrace
+Granite Bay
+Granite Hills
+Grass Valley
+Graton
+Grayson
+Greenfield
+Greenhorn
+Green Valley
+Greenview
+Greenville
+Grenada
+Gridley
+Groveland-Big Oak Flat
+Grover Beach
+Guadalupe
+Guerneville
+Gustine
+Hacienda Heights
+Half Moon Bay
+Hamilton Branch
+Hamilton City
+Hanford
+Harbison Canyon
+Hawaiian Gardens
+Hawthorne
+Hayfork
+Hayward
+Healdsburg
+Heber
+Hemet
+Hercules
+Hermosa Beach
+Hesperia
+Hickman
+Hidden Hills
+Hidden Meadows
+Hidden Valley Lake
+Highgrove
+Highland
+Highlands-Baywood Park
+Hillsborough
+Hilmar-Irwin
+Hollister
+Holtville
+Home Garden
+Home Gardens
+Homeland
+Homewood Canyon-Valley Wells
+Hornbrook
+Hughson
+Humboldt Hill
+Huntington Beach
+Huntington Park
+Huron
+Hydesville
+Idyllwild-Pine Cove
+Imperial
+Imperial Beach
+Independence
+Indian Falls
+Indian Wells
+Indio
+Industry
+Inglewood
+Interlaken
+Inverness
+Inyokern
+Ione
+Iron Horse
+Irvine
+Irwindale
+Isla Vista
+Isleton
+Ivanhoe
+Jackson
+Jamestown
+Jamul
+Johannesburg
+Johnsville
+Joshua Tree
+Julian
+Keddie
+Keeler
+Keene
+Kelseyville
+Kennedy
+Kensington
+Kentfield
+Kerman
+Kernville
+Kettleman City
+Keyes
+King City
+Kings Beach
+Kingsburg
+Kirkwood
+Klamath
+Knightsen
+La Canada Flintridge
+La Crescenta-Montrose
+Ladera Heights
+Lafayette
+Laguna
+Laguna Beach
+Laguna Hills
+Laguna Niguel
+Laguna West-Lakeside
+Laguna Woods
+Lagunitas-Forest Knolls
+La Habra
+La Habra Heights
+Lake Almanor Country Club
+Lake Almanor Peninsula
+Lake Almanor West
+Lake Arrowhead
+Lake Davis
+Lake Elsinore
+Lake Forest
+Lakehead-Lakeshore
+Lake Isabella
+Lakeland Village
+Lake Los Angeles
+Lake Nacimiento
+Lake of the Pines
+Lake of the Woods
+Lakeport
+Lake San Marcos
+Lakeside
+Lakeview
+Lake Wildwood
+Lakewood
+La Mesa
+La Mirada
+Lamont
+Lanare
+Lancaster
+La Palma
+La Porte
+La Presa
+La Puente
+La Quinta
+La Riviera
+Larkfield-Wikiup
+Larkspur
+Las Flores
+Las Lomas
+Lathrop
+Laton
+La Verne
+Lawndale
+Laytonville
+Lebec
+Le Grand
+Lemon Cove
+Lemon Grove
+Lemoore
+Lemoore Station
+Lennox
+Lenwood
+Lewiston
+Lexington Hills
+Lincoln
+Lincoln Village
+Linda
+Linden
+Lindsay
+Little Grass Valley
+Littlerock
+Live Oak
+Live Oak
+Livermore
+Livingston
+Lockeford
+Lodi
+Loma Linda
+Loma Rica
+Lomita
+Lompoc
+London
+Lone Pine
+Long Beach
+Loomis
+Los Alamitos
+Los Alamos
+Los Altos
+Los Altos Hills
+Los Angeles
+Los Banos
+Los Gatos
+Los Molinos
+Lost Hills
+Lower Lake
+Loyalton
+Loyola
+Lucas Valley-Marinwood
+Lucerne
+Lynwood
+McArthur
+McCloud
+Macdoel
+McFarland
+McKinleyville
+McKittrick
+Madera
+Madera Acres
+Magalia
+Malibu
+Mammoth Lakes
+Manhattan Beach
+Manteca
+Manton
+March AFB
+Maricopa
+Marina
+Marina del Rey
+Mariposa
+Markleeville
+Martinez
+Marysville
+Mayflower Village
+Maywood
+Meadow Valley
+Meadow Vista
+Mecca
+Meiners Oaks
+Mendocino
+Mendota
+Menlo Park
+Mentone
+Merced
+Mesa
+Mesa Vista
+Mettler
+Middletown
+Millbrae
+Mill Valley
+Millville
+Milpitas
+Mineral
+Mira Loma
+Mira Monte
+Mission Canyon
+Mission Hills
+Mission Viejo
+Mi-Wuk Village
+Modesto
+Mohawk Vista
+Mojave
+Mokelumne Hill
+Mono Vista
+Monrovia
+Montague
+Montara
+Montclair
+Montebello
+Montecito
+Monterey
+Monterey Park
+Monte Rio
+Monte Sereno
+Montgomery Creek
+Moorpark
+Morada
+Moraga
+Moreno Valley
+Morgan Hill
+Morongo Valley
+Morro Bay
+Moss Beach
+Moss Landing
+Mountain Mesa
+Mountain Ranch
+Mountain View
+Mountain View
+Mountain View Acres
+Mount Hebron
+Mount Shasta
+Muir Beach
+Murphys
+Murrieta
+Murrieta Hot Springs
+Muscoy
+Myrtletown
+Napa
+National City
+Nebo Center
+Needles
+Nevada City
+Newark
+Newman
+Newport Beach
+Newport Coast
+Nice
+Niland
+Nipomo
+Norco
+North Auburn
+North Edwards
+North El Monte
+North Fair Oaks
+North Highlands
+North Lakeport
+North Woodbridge
+Norwalk
+Novato
+Nuevo
+Oakdale
+Oakhurst
+Oakland
+Oakley
+Oak Park
+Oak View
+Occidental
+Oceano
+Oceanside
+Ocotillo
+Oildale
+Ojai
+Olancha
+Olivehurst
+Ontario
+Onyx
+Opal Cliffs
+Orange
+Orange Cove
+Orangevale
+Orcutt
+Orinda
+Orland
+Orosi
+Oroville
+Oroville East
+Oxnard
+Pacheco
+Pacifica
+Pacific Grove
+Pajaro
+Palermo
+Palmdale
+Palm Desert
+Palm Springs
+Palo Alto
+Palo Cedro
+Palos Verdes Estates
+Palo Verde
+Paradise
+Paramount
+Parksdale
+Parkway-South Sacramento
+Parkwood
+Parlier
+Pasadena
+Patterson
+Paxton
+Pearsonville
+Pedley
+Penn Valley
+Perris
+Petaluma
+Phoenix Lake-Cedar Ridge
+Pico Rivera
+Piedmont
+Pine Hills
+Pine Mountain Club
+Pine Valley
+Pinole
+Piru
+Pismo Beach
+Pittsburg
+Pixley
+Placentia
+Placerville
+Planada
+Pleasant Hill
+Pleasanton
+Plumas Eureka
+Plymouth
+Point Arena
+Point Reyes Station
+Pollock Pines
+Pomona
+Poplar-Cotton Center
+Port Costa
+Porterville
+Port Hueneme
+Portola
+Portola Hills
+Portola Valley
+Poway
+Prattville
+Prunedale
+Quail Valley
+Quartz Hill
+Quincy
+Rail Road Flat
+Rainbow
+Raisin City
+Ramona
+Rancho Calaveras
+Rancho Cordova
+Rancho Cucamonga
+Rancho Mirage
+Rancho Murieta
+Rancho Palos Verdes
+Rancho San Diego
+Rancho Santa Fe
+Rancho Santa Margarita
+Rancho Tehama Reserve
+Randsburg
+Red Bluff
+Redding
+Redlands
+Redondo Beach
+Redway
+Redwood City
+Reedley
+Rialto
+Richgrove
+Richmond
+Ridgecrest
+Ridgemark
+Rio Dell
+Rio del Mar
+Rio Linda
+Rio Vista
+Ripon
+Riverbank
+Riverdale
+Riverdale Park
+Riverside
+Rocklin
+Rodeo
+Rohnert Park
+Rolling Hills
+Rolling Hills Estates
+Rollingwood
+Romoland
+Rosamond
+Rosedale
+Roseland
+Rosemead
+Rosemont
+Roseville
+Ross
+Rossmoor
+Round Mountain
+Round Valley
+Rowland Heights
+Rubidoux
+Running Springs
+Sacramento
+St. Helena
+Salida
+Salinas
+Salton City
+Salton Sea Beach
+San Andreas
+San Anselmo
+San Antonio Heights
+San Ardo
+San Bernardino
+San Bruno
+San Buenaventura (Ventura)
+San Carlos
+San Clemente
+Sand City
+San Diego
+San Diego Country Estates
+San Dimas
+San Fernando
+San Francisco
+San Gabriel
+Sanger
+San Geronimo
+San Jacinto
+San Joaquin
+San Joaquin Hills
+San Jose
+San Juan Bautista
+San Juan Capistrano
+San Leandro
+San Lorenzo
+San Lucas
+San Luis Obispo
+San Marcos
+San Marino
+San Martin
+San Mateo
+San Miguel
+San Pablo
+San Rafael
+San Ramon
+Santa Ana
+Santa Barbara
+Santa Clara
+Santa Clarita
+Santa Cruz
+Santa Fe Springs
+Santa Maria
+Santa Monica
+Santa Paula
+Santa Rosa
+Santa Venetia
+Santa Ynez
+Santee
+Saratoga
+Sausalito
+Scotts Valley
+Seal Beach
+Searles Valley
+Seaside
+Sebastopol
+Sedco Hills
+Seeley
+Selma
+Seven Trees
+Shackelford
+Shafter
+Shandon
+Shasta Lake
+Shaver Lake
+Shingle Springs
+Shingletown
+Shoshone
+Sierra Madre
+Signal Hill
+Simi Valley
+Solana Beach
+Soledad
+Solvang
+Sonoma
+Sonora
+Soquel
+Soulsbyville
+South Dos Palos
+South El Monte
+South Gate
+South Lake Tahoe
+South Oroville
+South Pasadena
+South San Francisco
+South San Gabriel
+South San Jose Hills
+South Taft
+South Whittier
+South Woodbridge
+South Yuba City
+Spreckels
+Spring Garden
+Spring Valley
+Springville
+Squaw Valley
+Squirrel Mountain Valley
+Stallion Springs
+Stanford
+Stanton
+Stinson Beach
+Stockton
+Storrie
+Stratford
+Strathmore
+Strawberry
+Suisun City
+Summerland
+Sun City
+Sunnyside-Tahoe City
+Sunnyslope
+Sunnyvale
+Sunol
+Sunol-Midtown
+Susanville
+Sutter
+Sutter Creek
+Taft
+Taft Heights
+Taft Mosswood
+Tahoe Vista
+Talmage
+Tamalpais-Homestead Valley
+Tara Hills
+Taylorsville
+Tecopa
+Tehachapi
+Tehama
+Temecula
+Temelec
+Temple City
+Templeton
+Tennant
+Terra Bella
+Thermalito
+Thousand Oaks
+Thousand Palms
+Three Rivers
+Tiburon
+Tierra Buena
+Tipton
+Tobin
+Tomales
+Toro Canyon
+Torrance
+Tracy
+Tranquillity
+Traver
+Trinidad
+Truckee
+Tulare
+Tulelake
+Tuolumne City
+Tupman
+Turlock
+Tustin
+Tustin Foothills
+Twain
+Twain Harte
+Twentynine Palms
+Twentynine Palms Base
+Twin Lakes
+Ukiah
+Union City
+Upland
+Upper Lake
+Vacaville
+Valinda
+Vallecito
+Vallejo
+Valle Vista
+Valley Acres
+Valley Center
+Valley Ranch
+Valley Springs
+Val Verde
+Vandenberg AFB
+Vandenberg Village
+Vernon
+Victorville
+View Park-Windsor Hills
+Villa Park
+Vincent
+Vine Hill
+Vineyard
+Visalia
+Vista
+Waldon
+Wallace
+Walnut
+Walnut Creek
+Walnut Grove
+Walnut Park
+Wasco
+Waterford
+Watsonville
+Weaverville
+Weed
+Weedpatch
+Weldon
+West Athens
+West Bishop
+West Carson
+West Compton
+West Covina
+Westhaven-Moonstone
+West Hollywood
+Westlake Village
+Westley
+West Menlo Park
+Westminster
+West Modesto
+Westmont
+Westmorland
+West Point
+West Puente Valley
+West Sacramento
+West Whittier-Los Nietos
+Westwood
+Wheatland
+Whitehawk
+Whittier
+Wildomar
+Wilkerson
+Williams
+Willits
+Willowbrook
+Willow Creek
+Willows
+Wilton
+Winchester
+Windsor
+Winter Gardens
+Winterhaven
+Winters
+Winton
+Wofford Heights
+Woodacre
+Woodcrest
+Woodlake
+Woodland
+Woodside
+Woodville
+Wrightwood
+Yorba Linda
+Yosemite Lakes
+Yosemite Valley
+Yountville
+Yreka
+Yuba City
+Yucaipa
+Yucca Valley
+3rd Street
+Central Plaza
+East Oak Street
+Elm Street
+Evergreen Terrace
+Main Street
+Main and Market
+Market Square
+Shelbyville
+Spalding Way
+Springfield Mall

@@ -2,20 +2,20 @@ When is the next turn?
 Is the next turn a left or a right?
 How many more miles are there until I get there?
 How many more steps until I have to make a turn?
-Will traffic affect my time until my destination?
-How much more time until I reach my destination?
-How many more minutes until I reach my destination?
+Will traffic affect my time until {Maplewood|location}?
+How much more time until I reach {North Oaks|location}?
+How many more minutes until I reach {West Compton|location}?
 Where is the next turn?
 Which crosswalk am I supposed to go to?
 Which street do I turn next at?
 Which street is the last turn at?
 When approximately is the next turn?
-How many traffic intersections are there until my destination?
-What are possible routes to my location?
+How many traffic intersections are there until {Sonora|location}?
+What are possible routes to {McDonald's|location}?
 Am I traveling in the right direction?
 How can I fix my direction?
-What is the shortest possible route to my location?
-How many more kilometers until my destination?
+What is the shortest possible route to {Aurora|location}?
+How many more kilometers until {Brainerd|location}?
 How many more meters until the next turn?
-What is the fastest route to my destination?
+What is the fastest route to {Paynesville|location}?
 Am I almost there yet?

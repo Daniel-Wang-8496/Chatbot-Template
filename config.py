@@ -33,7 +33,6 @@ INTENT_CLASSIFIER_CONFIG = {
 # DOMAIN_CLASSIFIER_CONFIG = {}
 #ENTITY_RECOGNIZER_CONFIG = {}
 # ROLE_CLASSIFIER_CONFIG = {}
-"""
 TEXT_PREPARATION_CONFIG = {
     "preprocessors": [],
     "tokenizer": "SpacyTokenizer",
@@ -54,10 +53,10 @@ TEXT_PREPARATION_CONFIG = {
         'ASCIIFold'
     ],
     "regex_norm_rules": [],
-    "stemmer": "SpacyLemmatizer",
+    "stemmer": "EnglishNLTKStemmer",
     "keep_special_chars": r"\@\[\]'"
 }
-"""
+
 # A example configuration for the parser
 """
 # *** Note: these are place holder entity types ***
